@@ -1,0 +1,15 @@
+#### Version: 1.0.0
+Initial release of the Terraform AWS VPC-Subnets module.
+Version: 1.0.0
+Author: Subhamay Bhattacharyya
+Created: 24-Dec-2024
+Updated: 
+Description: This module creates and manages AWS VPC networks, including subnets, Internet Gateways, Network ACLs using Terraform.
+
+## Features
+- Create VPC with specified CIDR block
+- Create public and private subnets
+- Enable/disable DNS hostnames and DNS support
+- Configure Internet Gateways
+- Configure Network ACLs
+- Tag resources
